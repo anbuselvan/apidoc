@@ -176,6 +176,7 @@ pre {
 
 pre.prettyprint {
   width: 100%;
+  max-height: 500px;
 }
 
 code.language-text {
@@ -213,6 +214,10 @@ pre.language-html {
 
 .type__post {
   background-color: #4070ec;
+}
+
+.type__public {
+  background-color: orange;
 }
 
 .type__delete {
