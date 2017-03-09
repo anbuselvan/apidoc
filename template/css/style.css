@@ -241,6 +241,7 @@ pre code {
   font-weight: 400;
   word-wrap: normal;
   white-space: pre;
+  max-height: 500px;
 }
 
 pre code.sample-request-response-json {
