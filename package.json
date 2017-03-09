@@ -39,7 +39,8 @@
     "lodash": "~4.17.4",
     "markdown-it": "^8.2.2",
     "nomnom": "~1.8.1",
-    "winston": "~2.3.1"
+    "winston": "~2.3.1",
+    "apidoc-plugin-public": "*"
   },
   "devDependencies": {
     "apidoc-example": "*",
