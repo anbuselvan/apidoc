@@ -34,13 +34,13 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "github:anbuselvan/apidoc-core": "~0.8.1",
+    "apidoc-core": "git+https://github.com/anbuselvan/apidoc-core",
     "fs-extra": "~2.0.0",
     "lodash": "~4.17.4",
     "markdown-it": "^8.2.2",
     "nomnom": "~1.8.1",
     "winston": "~2.3.1",
-    "github:anbuselvan/apidoc-plugin-public": "*"
+    "apidoc-plugin-public": "git+https://github.com/anbuselvan/apidoc-plugin-public"
   },
   "devDependencies": {
     "apidoc-example": "*",
